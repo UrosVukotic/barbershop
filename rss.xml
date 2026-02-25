@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Barber shop</title>
+    <link></link>
+    <description>Najbolji barber shop u regionu.</description>
+    <language>sr</language>
+    <lastBuildDate>Wed, 25 Feb 2026 10:00:00 +0100</lastBuildDate>
+
+    <item>
+      <title>Sisanje</title>
+      <link></link>
+      <description>Uz nase najbolje zaposlene mozete dobiti frizuru kakvu pozelite</description>
+      <pubDate>Wed, 25 Feb 2026 10:00:00 +0100</pubDate>
+      <guid></guid>
+    </item>
+
+    <item>
+      <title>Novosti  PDF dokumentacija</title>
+      <link></link>
+      <description>Ažurirana dokumentacija projekta Barber shop.</description>
+      <pubDate>Wed, 25 Feb 2026 10:00:00 +0100</pubDate>
+      <guid></guid>
+    </item>
+
+  </channel>
+</rss>
